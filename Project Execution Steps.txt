@@ -1,0 +1,8 @@
+Project Execution Steps:
+
+step1:
+   	cmd
+step2:
+	conda activate envs
+step3:
+	streamlit run app.py
